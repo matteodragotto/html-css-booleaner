@@ -1,10 +1,38 @@
 header {
   background-color: #4EA1FF;
   background-image: url(../img/pattern.png);
-  height: 150px;
+  height: 180px;
+  margin: 0%;
 
 }
+
 .logo{
-  width: 200px;
-  height: 230px;
+  width: 240px;
+  height: 220px;
+}
+
+h1 {
+  font-size: 3.8rem;
+  text-align: left;
+  padding-bottom: 0px;
+}
+
+section p{
+  color: #858585;
+  font-size: 2.5rem;
+  text-align: justify;
+}
+
+span.subtitle{
+  color: #5EA3B0;
+}
+
+.box{
+  width: 100%;
+  height: auto;
+}
+
+.tim{
+  width: 45%;
+  height: 600px;
 }
