@@ -93,5 +93,16 @@ h2{
 
 footer{
   width: 30%;
-  height: 350px;
-  }
+}
+
+.image-1{
+  color: white;
+  background-image: url(../img/monitor.jpg);
+  height: 204px;
+}
+
+.image-2{
+  color: white;
+  background-image: url(../img/graph.jpg);
+  height: 204px;
+}
