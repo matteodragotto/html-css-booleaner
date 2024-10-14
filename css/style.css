@@ -98,11 +98,15 @@ footer{
 .image-1{
   color: white;
   background-image: url(../img/monitor.jpg);
+  background-repeat: no-repeat;
   height: 204px;
+  width: 271px;
 }
 
 .image-2{
   color: white;
   background-image: url(../img/graph.jpg);
+  background-repeat: no-repeat;
   height: 204px;
+  width: 271px;
 }
