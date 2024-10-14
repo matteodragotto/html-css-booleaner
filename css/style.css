@@ -14,14 +14,14 @@ header {
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 2.2rem;
   text-align: left;
   margin-bottom: 4px;
 }
 
 .title{
   color: #858585;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   text-align: justify;
   margin-top: 4px;
   margin-bottom: 2px;
@@ -57,3 +57,41 @@ span.subtitle{
  margin: 0px;
  padding: 7px;
 }
+
+table{
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+thead{
+  background-color: #26A7E2;
+  color: white;
+  text-align: left;
+}
+
+.even{
+  background-color: white;
+}
+
+.odd{
+  background-color: #B1E6F2;
+}
+
+h2{
+  color: #858585;
+  font-size: 20px;
+}
+
+.width{
+  width: 20%;
+}
+
+.mark{
+  background-color:#F8FC05;
+}
+
+footer{
+  width: 30%;
+  height: 350px;
+  }
